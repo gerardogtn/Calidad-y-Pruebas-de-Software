@@ -1,0 +1,16 @@
+/opt/googletest/googlemock/mybuild/CMakeFiles/edit_cache.dir
+/opt/googletest/googlemock/mybuild/CMakeFiles/list_install_components.dir
+/opt/googletest/googlemock/mybuild/CMakeFiles/install/local.dir
+/opt/googletest/googlemock/mybuild/CMakeFiles/gmock_main.dir
+/opt/googletest/googlemock/mybuild/CMakeFiles/install.dir
+/opt/googletest/googlemock/mybuild/CMakeFiles/install/strip.dir
+/opt/googletest/googlemock/mybuild/CMakeFiles/rebuild_cache.dir
+/opt/googletest/googlemock/mybuild/CMakeFiles/gmock.dir
+/opt/googletest/googlemock/mybuild/gtest/CMakeFiles/edit_cache.dir
+/opt/googletest/googlemock/mybuild/gtest/CMakeFiles/rebuild_cache.dir
+/opt/googletest/googlemock/mybuild/gtest/CMakeFiles/list_install_components.dir
+/opt/googletest/googlemock/mybuild/gtest/CMakeFiles/gtest_main.dir
+/opt/googletest/googlemock/mybuild/gtest/CMakeFiles/install.dir
+/opt/googletest/googlemock/mybuild/gtest/CMakeFiles/install/strip.dir
+/opt/googletest/googlemock/mybuild/gtest/CMakeFiles/install/local.dir
+/opt/googletest/googlemock/mybuild/gtest/CMakeFiles/gtest.dir

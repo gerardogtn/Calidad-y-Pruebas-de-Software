@@ -1,0 +1,8 @@
+/opt/googletest/googletest/mybuild/CMakeFiles/edit_cache.dir
+/opt/googletest/googletest/mybuild/CMakeFiles/rebuild_cache.dir
+/opt/googletest/googletest/mybuild/CMakeFiles/list_install_components.dir
+/opt/googletest/googletest/mybuild/CMakeFiles/gtest_main.dir
+/opt/googletest/googletest/mybuild/CMakeFiles/install.dir
+/opt/googletest/googletest/mybuild/CMakeFiles/install/strip.dir
+/opt/googletest/googletest/mybuild/CMakeFiles/install/local.dir
+/opt/googletest/googletest/mybuild/CMakeFiles/gtest.dir
