@@ -1,0 +1,7 @@
+// Copyright 2017 Gerardo Teruel
+#ifndef UNITARIAS_EJERCICIO01_FIBONACCI_H_
+#define UNITARIAS_EJERCICIO01_FIBONACCI_H_
+
+int fibonacci(int n);
+
+#endif  // UNITARIAS_EJERCICIO01_FIBONACCI_H_
