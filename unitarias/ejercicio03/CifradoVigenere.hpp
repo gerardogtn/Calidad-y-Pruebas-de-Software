@@ -5,6 +5,7 @@
 #include <string>
 
 class CifradoVigenere {
+ public:
   std::string decipher(const std::string& key, const std::string& cipher) {
     std::string out = "";
     int special = 0;
@@ -12,14 +13,20 @@ class CifradoVigenere {
     for (int i = 0; i < cipher.size(); i++) {
       if (cipher[i] == '.' || cipher[i] == ' ') {
         special++;
-        out += cipher[i];
+        out.append(1, cipher[i]);
       } else {
-        int index = cipher[i] - key[(i - special) % 26];
-        out += index + 65;
+        /** int to be able to hold negative numbers */
+        int c = cipher[i] - key[(i - special) % key.size()];
+
+        if (c < 0) {
+          out.append(1, 91 + c);
+        } else {
+          out.append(1, (c % 26) + 65);
+        }
       }
     }
 
-    return out
+    return out;
   }
 };
 
