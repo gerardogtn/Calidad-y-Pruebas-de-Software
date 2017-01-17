@@ -1,10 +1,10 @@
 // Copyright 2017 Gerardo Teruel
-#ifndef UNITARIAS_EJERCICIO03_CIFRADOVINEGERE_H_
-#define UNITARIAS_EJERCICIO03_CIFRADOVINEGERE_H_
+#ifndef UNITARIAS_EJERCICIO03_CIFRADOVIGENERE_H_
+#define UNITARIAS_EJERCICIO03_CIFRADOVIGENERE_H_
 
 #include <string>
 
-class CifradoVinegere {
+class CifradoVigenere {
   std::string decipher(const std::string& key, const std::string& cipher) {
     std::string out = "";
     int special = 0;
@@ -23,4 +23,4 @@ class CifradoVinegere {
   }
 };
 
-#endif  // UNITARIAS_EJERCICIO03_CIFRADOVINEGERE_H_
+#endif  // UNITARIAS_EJERCICIO03_CIFRADOVIGENERE_H_
