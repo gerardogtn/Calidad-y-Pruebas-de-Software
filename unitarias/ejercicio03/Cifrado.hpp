@@ -1,0 +1,8 @@
+// Copyright 2017 Gerardo Teruel
+#ifndef UNITARIAS_EJERCICIO03_CIFRADO_H_
+#define UNITARIAS_EJERCICIO03_CIFRADO_H_
+
+class Cifrado {
+};
+
+#endif  // UNITARIAS_EJERCICIO03_CIFRADO_H_
