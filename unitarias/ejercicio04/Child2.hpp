@@ -2,6 +2,7 @@
 #ifndef CHILD2_H_
 #define CHILD2_H_
 
+#include <iostream>
 #include "Base.hpp"
 
 class Child2 : public Base {
