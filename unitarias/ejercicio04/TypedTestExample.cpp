@@ -1,5 +1,4 @@
 #include "gmock/gmock.h"
-#include "Base.hpp"
 #include "Child1.hpp"
 #include "Child2.hpp"
 
