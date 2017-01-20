@@ -5,6 +5,7 @@
 class Base {
  public:
   virtual int doSomething() = 0;
+  virtual ~Base() {}
 };
 
 #endif  // CHILD1_H_
